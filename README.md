@@ -187,5 +187,3 @@ Receive a personalized demonstration showcasing analytics relevant to your indus
 ---
 
 To get started with a free data sample, email info@altfndata.com.
-
-*Transform your understanding of the global luxury handbag market with the industry's most comprehensive and accurate dataset. Contact us today to begin your data partnership.*
