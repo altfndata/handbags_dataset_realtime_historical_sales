@@ -154,7 +154,7 @@ Access the most comprehensive and meticulously curated dataset of global luxury 
 
 ---
 
-## Success Stories
+## Case Studies
 
 ### **Hedge Fund Portfolio Management**
 *Leading alternative investment firm*
@@ -176,27 +176,6 @@ Access the most comprehensive and meticulously curated dataset of global luxury 
 
 ---
 
-## Pricing & Access
-
-### **Professional License**
-- **Coverage**: Full dataset access with quarterly updates
-- **Support**: Email support and documentation
-- **Price**: $25,000 annually
-- **Ideal For**: Market researchers, consultants, academic institutions
-
-### **Enterprise License**
-- **Coverage**: Real-time API access with daily updates
-- **Support**: Dedicated account manager and custom reporting
-- **Price**: $75,000 annually
-- **Ideal For**: Investment firms, luxury retailers, financial institutions
-
-### **Custom Solutions**
-- **Coverage**: Tailored datasets and specialized analytics
-- **Support**: Full-service data partnership with custom development
-- **Price**: Starting at $150,000 annually
-- **Ideal For**: Large institutions requiring specialized analysis and integration
-
----
 
 ## Getting Started
 
