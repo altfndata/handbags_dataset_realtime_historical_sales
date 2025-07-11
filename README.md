@@ -3,7 +3,7 @@
 
 ---
 
-Access the most comprehensive and meticulously curated dataset of global luxury handbag sales, covering transactions from the world's most prestigious brands. This institutional-grade dataset provides unparalleled insight into a $50+ billion market segment, delivering the granular transaction data essential for investment analysis, market research, and strategic decision-making in the luxury goods sector.
+Access the most comprehensive and meticulously curated dataset of global luxury handbag sales, covering transactions from the world's most prestigious brands. This institutional-grade dataset provides unparalleled insight into a $50+ billion market segment, delivering the granular transaction data essential for investment analysis, market research, and strategic decision-making in the luxury goods sector. Get this dataset on [AWS Data Exchange](https://aws.amazon.com/marketplace/pp/prodview-cn6zks5s3nfgy?sr=0-40&ref_=beagle&applicationId=AWSMPContessa) or on the [Google Cloud BigQuery Analytics Hub](https://console.cloud.google.com/bigquery/analytics-hub/discovery/projects/altfinancedata/locations/us/dataExchanges/altfndata_197ad6b54f4/listings/real_time_historical_data_global_luxury_handbags_auctions_197ad92259c).
 
 ---
 
@@ -28,8 +28,6 @@ Access the most comprehensive and meticulously curated dataset of global luxury 
 
 ### **Global Market Coverage**
 **Primary Markets**: United States, United Kingdom, France, Italy, Germany, Japan, China, Hong Kong, Singapore, South Korea, Australia, Canada
-
-**Emerging Markets**: UAE, Saudi Arabia, Brazil, Mexico, Russia, India, Thailand, Malaysia
 
 **Transaction Channels**: Authorized retailers, online platforms, auction houses, consignment platforms, private sales
 
@@ -134,7 +132,7 @@ Access the most comprehensive and meticulously curated dataset of global luxury 
 ### **Unmatched Coverage**
 - **Global Scope**: Only dataset covering both primary and secondary markets worldwide
 - **Real-Time Intelligence**: Live transaction feeds from major platforms
-- **Historical Depth**: 20+ years of verified transaction history
+- **Historical Depth**: 25+ years of verified transaction history
 
 ### **Superior Data Quality**
 - **Authentication Verified**: All transactions validated for authenticity
