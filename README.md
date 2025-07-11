@@ -3,7 +3,7 @@
 
 ---
 
-Access the most comprehensive and meticulously curated dataset of global luxury handbag sales, covering transactions from the world's most prestigious brands. This institutional-grade dataset provides unparalleled insight into a $50+ billion market segment, delivering the granular transaction data essential for investment analysis, market research, and strategic decision-making in the luxury goods sector. Get this dataset on [AWS Data Exchange](https://aws.amazon.com/marketplace/pp/prodview-cn6zks5s3nfgy?sr=0-40&ref_=beagle&applicationId=AWSMPContessa) or on the [Google Cloud BigQuery Analytics Hub](https://console.cloud.google.com/bigquery/analytics-hub/discovery/projects/altfinancedata/locations/us/dataExchanges/altfndata_197ad6b54f4/listings/real_time_historical_data_global_luxury_handbags_auctions_197ad92259c).
+Access the most comprehensive and meticulously curated dataset of global luxury handbag sales, covering transactions from the world's most prestigious brands. This institutional-grade dataset provides unparalleled insight into a $50+ billion market segment, delivering the granular transaction data essential for investment analysis, market research, and strategic decision-making in the luxury goods sector. Get this dataset on [AWS Data Exchange](https://aws.amazon.com/marketplace/pp/prodview-cn6zks5s3nfgy?sr=0-40&ref_=beagle&applicationId=AWSMPContessa) or on the [Google Cloud BigQuery Analytics Hub](https://console.cloud.google.com/bigquery/analytics-hub/discovery/projects/altfinancedata/locations/us/dataExchanges/altfndata_197ad6b54f4/listings/real_time_historical_data_global_luxury_handbags_auctions_197ad92259c). (Coming soon to Azure Marketplace)
 
 ---
 
